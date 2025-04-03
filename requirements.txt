@@ -1,0 +1,12 @@
+streamlit
+requests
+pandas
+praw
+vaderSentiment
+fastapi
+pydantic
+uvicorn
+matplotlib
+seaborn
+wordcloud
+pywhatkit
